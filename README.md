@@ -1,0 +1,5 @@
+# SOMA app
+
+The SOMA application aims to create an accessible and open national community for mathematics Olympiads, empowering individuals to excel in math through shared learning and friendly competition. It provides a comprehensive set of features including free educational materials, quarterly tournaments, community discussions, study notes, and a calendar for organizing study plans. The objective is to reach all Brazilian communities, particularly low-income students, by ensuring they have the necessary resources to thrive in the math field. The goal is to break the elitist perception of math and inspire students to pursue math as a career and shape a brighter future through education. 
+
+SOMA is currently a prototype developed through JavaScript, HTML, CSS, and React Native framework. 
